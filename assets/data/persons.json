@@ -1,0 +1,46 @@
+{
+    "persons": [
+        {
+            "id": 1,
+            "isim": "bilge",
+            "erkekMi": false,
+            "sevdiğiRenkler": [
+                "pembe",
+                "siyah"
+            ],
+            "adres": [
+                {
+                    "il": "ankara",
+                    "ilce": "etimesgut",
+                    "tur": "ev"
+                },
+                {
+                    "il": "erzurum",
+                    "ilce": "yakutiye",
+                    "tur": "iş"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "isim": "can",
+            "erkekMi": true,
+            "sevdiğiRenkler": [
+                "beyaz",
+                "siyah"
+            ],
+            "adres": [
+                {
+                    "il": "erzurum",
+                    "ilce": "merkez",
+                    "tur": "ev"
+                },
+                {
+                    "il": "erzurum",
+                    "ilce": "yakutiye",
+                    "tur": "iş"
+                }
+            ]
+        }
+    ]
+}

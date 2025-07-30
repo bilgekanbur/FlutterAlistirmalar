@@ -1,0 +1,28 @@
+{
+    "kardesler": [
+        {
+            "ad": "sena",
+            "soyad": "kanbur",
+            "yas": 23,
+            "ogrenciMi": true,
+            "calisanMi": true,
+            "okul": "Atatürk Üniversitesi"
+        },
+        {
+            "ad": "sezer",
+            "soyad": "kanbur",
+            "yas": 21,
+            "ogrenciMi": true,
+            "calisanMi": false,
+            "okul": "Karadeniz Teknik Üniversitesi"
+        },
+        {
+            "ad": "sinem",
+            "soyad": "kanbur",
+            "yas": 10,
+            "ogrenciMi": true,
+            "calisanMi": false,
+            "okul": "Bağlıca İlkokulu"
+        }
+    ]
+}
